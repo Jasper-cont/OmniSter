@@ -1,0 +1,2 @@
+# Omnidir-Stereo
+The first development of this program was part of a Final Year Project by Kaiwen Lin at Durham University. The research project was to implement a omnidirectional stereo system based upon two Ricoh Theta S Cameras set up in a top-bottom topology. The program has been advanced by a second Final Year Project by Jasper Meyer at Durham University where the objective was to improve the fidelity to ground truth of the Stereo Vision algorithm, add Odometry capabilities to the software and combine both into an omni-directional SLAM output.
