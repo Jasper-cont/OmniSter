@@ -6,6 +6,7 @@ Contacts:
 	  meyerjasper@gmail.com
 
 ############################# Introduction #####################################
+
 The first development of this program was part of a Final Year Project by Kaiwen Lin at Durham University. 
 The research project was to implement a omnidirectional stereo system based upon two Ricoh Theta S Cameras set up in a top-bottom topology. 
 The program has been advanced by a second Final Year Project by Jasper Meyer at Durham University where the objective was to improve 
@@ -21,6 +22,7 @@ It is used to:
   - Log All Data Generated
 
 ############################# Requirements ####################################
+
 - Ubuntu 18.04.1
 - OpenCV 3.1.0 (with ccalib)
 - PCL 1.3
@@ -32,6 +34,7 @@ It is used to:
 - Yoctopuce GPS Drivers
 
 ############################ Build and Run ####################################
+
 To Build (in the main directory):
 $ make
 
@@ -102,5 +105,6 @@ Configurations:
     as a psuedo-live stream to the "Stream Real Time Disparity Map" Conifguration.
 
 ################################ Notes ########################################
+
 Do not change the file structure as the program will not work.
 Any other queries, feel free to contact Kaiwen for Omnidirectional Stereo and SGBM Stereo Matching, and Jasper for SPS smoothing, Odometry and Point Cloud concatenation.
